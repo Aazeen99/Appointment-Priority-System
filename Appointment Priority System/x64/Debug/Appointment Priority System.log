@@ -1,0 +1,3 @@
+﻿  Appointment Priority System.cpp
+C:\Users\HP Pavilion\Desktop\thirdSemester\DSA\LabReportsDSA\Appointment Priority System\Appointment Priority System\Appointment Priority System.cpp(176,13): error C2561: 'queue::first_pharmacist_order': function must return a value
+C:\Users\HP Pavilion\Desktop\thirdSemester\DSA\LabReportsDSA\Appointment Priority System\Appointment Priority System\Appointment Priority System.cpp(171,11): message : see declaration of 'queue::first_pharmacist_order'
